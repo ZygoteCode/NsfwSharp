@@ -168,7 +168,7 @@ A heartfelt thank you goes out to the original author of the pre-trained model. 
 
 ## Contact
 
-For any questions, suggestions, or feedback, please feel free to reach out via [GitHub Issues](https://github.com/GabryB03/NsfwSharp/issues) or contact the repository maintainer directly.
+For any questions, suggestions, or feedback, please feel free to reach out via [GitHub Issues](https://github.com/ZygoteCode/NsfwSharp/issues) or contact the repository maintainer directly.
 
 ---
 
